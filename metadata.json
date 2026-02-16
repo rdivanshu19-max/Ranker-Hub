@@ -1,0 +1,8 @@
+{
+  "name": "RANKER STUDY SPACE",
+  "description": "A comprehensive free educational platform for students featuring a library, community forum, and powerful AI features including video understanding and real-time voice interaction.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
